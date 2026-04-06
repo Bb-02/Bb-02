@@ -1,12 +1,17 @@
-# ChengMaoMao 
+# : ) ChengMaoMao 
 
 ## 👋 Hi, Welcome to my GitHub!
 
-I’m currently focused on **algorithm studies**.
+I’m currently focused on **algorithm studies**.<br>
 In my spare time, I am exploring **software development**.
 
-For personal projects, development is done more for learning and entertainment purposes.
+For personal projects, development is done more for learning and entertainment purposes. <br>
 I will present my ideas through personal projects, which also serves as a way to document my learning journey.
+
+### 🚀 Languages
+* **Algorithms**: **C++** (ACM / Competitive Programming).
+* **Development**: **Java** (Personal Projects)
+
 
 
 <!--

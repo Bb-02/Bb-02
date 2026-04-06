@@ -1,10 +1,13 @@
-### ChengMaoMao 
-#👋 Hi, Welcome to my GitHub!
+# ChengMaoMao 
+
+##👋 Hi, Welcome to my GitHub!
 
 I’m currently focused on **algorithm studies**.
+
 In my spare time, I am exploring **software development**.
 
 For personal projects, development is done more for learning and entertainment purposes.
+
 I will present my ideas through personal projects, which also serves as a way to document my learning journey.
 
 

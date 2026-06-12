@@ -1,9 +1,9 @@
 # : ) ChengMaoMao ✨
 
-###  Hi, Welcome to my GitHub!👋
+###  Hi👋, Welcome to my GitHub!
 > 你好，欢迎来到我的个人主页呀！
 
-I’m currently focused on **algorithm studies.** 🎈✅<br>
+I’m currently focused on **algorithm studies.** <br>
 In my spare time, I am exploring **software development.** <br>
 > <sub>我目前主要在学习算法。</sub>
 <sub>在空闲时间，我也会去学习一些开发知识。</sub>
@@ -18,9 +18,9 @@ I will present my ideas through personal projects, which also serves as a way to
 
 ### 💻 Languages 
 * **Algorithms**: **C++** (ACM / Competitive Programming).  
-  <sub>**算法竞赛**: 使用 **C++** 参与 ACM/ICPC。</sub>
+  <sub>**算法竞赛**: 使用 **C++** 参与 ACM/ICPC🎈✅</sub>
 * **Development**: **Java** (Personal Projects).  
-  <sub>**项目开发**: 使用 **Java** 进行日常开发与实践。</sub>
+  <sub>**项目开发**: 使用 **Java** 进行日常开发与实践</sub>
 
 
 <!--

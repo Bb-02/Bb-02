@@ -1,26 +1,36 @@
-# : ) ChengMaoMao ✨
+# :) ChengMaoMao ✨
 
-###  Hi👋, Welcome to my GitHub!
-> 你好，欢迎来到我的个人主页呀！
+### Hi 👋, Welcome to my GitHub!
 
-I’m currently focused on **algorithm studies.** <br>
-In my spare time, I am exploring **software development.** <br>
-> <sub>我目前主要在学习算法。</sub>
-<sub>在空闲时间，我也会去学习一些开发知识。</sub>
+I'm interested in **algorithms, software development, and open source**.
 
-Most team collaboration projects use private repositories. 🔒<br>
-For personal projects, development is done more for learning and entertainment purposes. <br>
-I will present my ideas through personal projects, which also serves as a way to document my learning journey. <br>
-> <sub>团队协作的项目多为私有仓库的形式  </sub><br>
-<sub>个人项目的目的更多是为了学习和兴趣，我会在这些项目里加入自己的想法。</sub><br>
-<sub>这也可以算作我记录开发学习历程的一种方式。</sub><br>
+I enjoy turning ideas into projects and making them better through feedback and collaboration.
+
+> 你好，欢迎来到我的 GitHub！<br>
+> 喜欢算法、软件开发和开源，希望有一天也能成为开源大佬。
+
+
+### 💻 What I Work With
+
+- **Algorithms:** C++ · Competitive Programming<br>
+- **Open Source:** Building, experimenting, and contributing
+
+
+### 🚀 Featured Projects
+
+- **[Idea to Brief](https://github.com/Bb-02/idea-to-brief-skill)** — An AI Agent Skill that turns rough ideas into structured research tasks and helps AI investigate questions.
+- **[CaseCraft](https://github.com/Bb-02/CaseCraft)** — A C++ framework for generating and validating competitive programming test data.
+
 <br>
 
-### 💻 Languages 
-* **Algorithms**: **C++** (ACM / Competitive Programming).  
-  <sub>**算法竞赛**: 使用 **C++** 参与 ACM/ICPC🎈✅</sub>
-* **Development**: **Java** (Personal Projects).  
-  <sub>**项目开发**: 使用 **Java** 进行日常开发与实践</sub>
+### 🤝 Feedback & Contributions
+
+I'm always happy to hear new ideas, bug reports, and suggestions.<br>
+Feel free to **open an Issue** or **submit a Pull Request** on any of my projects.
+
+If you find something useful, consider giving it a ⭐!
+
+> 欢迎交流想法、提出 Issue 或贡献 PR。如果有项目对你有所帮助，也欢迎点个 Star 支持一下！
 
 
 <!--
@@ -51,4 +61,43 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+
+<!--
+# :) ChengMaoMao ✨
+
+### Hi 👋, Welcome to my GitHub!
+
+I'm interested in **algorithms, software development, and open source**.
+
+I enjoy turning ideas into projects and making them better through feedback and collaboration.
+
+> 你好，欢迎来到我的 GitHub！
+>
+> 喜欢算法、软件开发和开源，希望有一天也能成为开源大佬。
+
+
+### 💻 What I Work With
+
+ **Algorithms:** C++ · Competitive Programming
+ 
+ **Open Source:** Building, experimenting, and contributing
+
+
+### 🚀 Featured Projects
+
+- **[Idea to Brief](https://github.com/Bb-02/idea-to-brief-skill)** — An AI Agent Skill that turns rough ideas into structured research tasks and helps AI investigate questions.
+- **[CaseCraft](https://github.com/Bb-02/CaseCraft)** — A C++ framework for generating and validating competitive programming test data.
+
+
+### 🤝 Feedback & Contributions
+
+I'm always happy to hear new ideas, bug reports, and suggestions.
+
+Feel free to **open an Issue** or **submit a Pull Request** on any of my projects.
+
+If you find something useful, consider giving it a ⭐!
+
+> 欢迎交流想法、提出 Issue 或贡献 PR。如果有项目对你有所帮助，也欢迎点个 Star 支持一下！
 -->
